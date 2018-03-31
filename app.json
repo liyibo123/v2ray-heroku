@@ -1,11 +1,11 @@
 {
-  "name": "V2ray",
+  "name": "shoujimei88",
   "description": "deploy V2ray to Heroku.",
   "keywords": ["V2ray"],
   "env": {
     "VER": {
        "description": "输入v2ray Core 版本",
-       "value": "3.11"
+       "value": "3.15"
      }, 
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
